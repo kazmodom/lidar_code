@@ -1,0 +1,6 @@
+﻿  Cal_Feature.cpp
+d:\allprogram\wave2020\classification_lidar\svmdemo\svmdemo\cal_feature.cpp(38): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+d:\allprogram\wave2020\classification_lidar\svmdemo\svmdemo\cal_feature.cpp(42): warning C4244: “=”: 从“double”转换到“uint16_t”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  SVMdemo.vcxproj -> D:\AllProgram\WAVE2020\Classification_Lidar\SVMdemo\Debug\SVMdemo.exe

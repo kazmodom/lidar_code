@@ -1,0 +1,7 @@
+#include "standardlib.h"
+#include "svm.h"
+#include "svmtrain.hpp"
+#include "svmpredict.hpp"
+#include "Cal_Feature.h"
+#include "Read_binfile_Header.h"
+#include "Read_CH_Data.h"
